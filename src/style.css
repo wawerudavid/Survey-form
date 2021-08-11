@@ -1,0 +1,46 @@
+#main-content{
+  margin: 20px;
+  background-image: linear-gradient( rgba(255,255,0,0.5), rgba(0,0,255,0.5)),url("https://c8.alamy.com/comp/2AE96N6/election-in-kenya-the-hand-of-man-putting-his-vote-in-the-ballot-box-waved-kenya-flag-on-background-2AE96N6.jpg")
+}
+#title{
+  background: green;
+  text-align: center;
+  display: table;
+  margin: 0 auto;
+  width: 60%;
+}
+#description{
+  text-align: center;
+}
+#survey-form{
+  margin: 0 auto;
+  display: table;
+  width: 60%;
+  background: rgb(255,255,0, 0.9);
+  
+}
+#name{
+  margin: 0 auto;
+  display: table;
+}
+#email{
+  margin: 0 auto;
+  display: table
+}
+#age{
+  margin: 25px auto;
+  display: table
+}
+#number{
+  margin: 25px auto;
+  display: table
+}
+#submit{
+  margin: 25px auto;
+  display: table;
+ 
+}
+#dropdown{
+  
+  display: inline-block;
+}
